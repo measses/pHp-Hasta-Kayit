@@ -12,7 +12,8 @@ Uygulamayı çalıştırmak için, bir web sunucusu (örneğin Apache) kullanara
 Uygulama, kullanıcıların hastaların kişisel bilgilerini ve semptomlarını kaydetmelerine olanak tanır. Bu bilgiler veritabanında saklanır ve view.php sayfasında listelenir. edit.php sayfası, kaydedilmiş bir hastanın bilgilerini güncellemek için kullanılabilir.
 
 #Önizleme
-![Adsızxxxx](https://user-images.githubusercontent.com/67739721/235375479-90818432-437c-4da0-911c-75fcebcf29ba.png)
+![axaxaxaaxax](https://user-images.githubusercontent.com/67739721/235375508-d73ddf93-83b5-453a-8bb0-6d81fe16b9c6.png)
+
 
 # Katkıda Bulunma
 Her türlü katkıda bulunmaktan mutluluk duyarız! Lütfen bir çekme isteği göndererek veya bir sorun oluşturarak katkıda bulunun.
