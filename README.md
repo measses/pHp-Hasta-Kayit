@@ -11,7 +11,7 @@ Uygulamayı çalıştırmak için, bir web sunucusu (örneğin Apache) kullanara
 3Kullanım
 Uygulama, kullanıcıların hastaların kişisel bilgilerini ve semptomlarını kaydetmelerine olanak tanır. Bu bilgiler veritabanında saklanır ve view.php sayfasında listelenir. edit.php sayfası, kaydedilmiş bir hastanın bilgilerini güncellemek için kullanılabilir.
 
-#Önizleme
+# Önizleme
 ![axaxaxaaxax](https://user-images.githubusercontent.com/67739721/235375508-d73ddf93-83b5-453a-8bb0-6d81fe16b9c6.png)
 
 
