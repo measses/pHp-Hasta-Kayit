@@ -12,7 +12,7 @@
 <div class="d-flex justify-content-center">
         <h1>Hasta Kayıt Sistemi</h1>
     </div>
-<form action="test.php" name="test" method="post">
+<form action="result.php" name="test" method="post">
 
   <fieldset>
     <div class="d-flex justify-content-center">
